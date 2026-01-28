@@ -1,1 +1,1 @@
-Hi there this is a test to check for the pull request
+Hi there this is a test to check for the pull request via merge and pull
